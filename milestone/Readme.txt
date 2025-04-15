@@ -1,1 +1,1 @@
-This contains all SkillLab Next.js projects  
+This contains StudentDatabase project built using Supabase.  
